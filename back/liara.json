@@ -1,0 +1,14 @@
+{
+    "platform": "laravel",
+    "app": "lara-block-api",
+    "laravel": {
+        "phpVersion": "8.2",
+        "buildAssets": false
+    },
+    "disks": [
+        {
+            "name": "uploads",
+            "mountTo": "uploads"
+        }
+    ]
+}
